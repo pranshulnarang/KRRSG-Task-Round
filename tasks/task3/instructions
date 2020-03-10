@@ -1,0 +1,9 @@
+..............................................................INSTRUCTIONS...........................................................
+1.> To get the path between final and initial point execute task3.cpp
+2.> required path is highlighted change value of EPSILON or radius to get a better path if necessary
+3.> to run the path on turtlesim copy TurtlesimPositioncontroller_pkg in catkin_ws/src
+4.> run roscore on one terminal
+5.> on another terminal run turtlesim
+6.> in catkin_ws folder use catkin_make and in catkin_ws/src run the TurtlesimPositioncontroller_pkg.cpp file using rosrun
+7.> remember to correctly specify the path of file which will store the coordinates
+8.> a turtle will be spawned which will move on the required path

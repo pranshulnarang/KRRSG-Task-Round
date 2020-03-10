@@ -1,0 +1,8 @@
+.................................................INSTRUCTIONS TO RUN THE SERVER AND CLIENT....................................
+STEP 1:- compile gru.c file using g++ gru.c -o gru -lpthread
+STEP 2:- run the gru file using ./gru 8080 where 8080 is a portno. you can put any portno.
+STEP 3:- next compile and execute the clientserver.c and send the required array with ,(comma)in between numbers and no spaces and place a ,(comma) in the last also eg 1,2,3,4,5,6,7,8,9,
+STEP 4:- connect the required no. of minions as specified as a macro to indicate total no. of minions
+STEP 5:- array will be recieved by the minions
+STEP 6:- final sum will be recieved by clients
+

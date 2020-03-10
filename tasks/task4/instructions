@@ -1,0 +1,4 @@
+.........................................................INSTRUCTIONS.......................................................
+1-> Train the pendulum using ppo policy as well as the pendulum.py 
+2-> observer the graph and use it to maximise stability
+3.> add an extra factor if necessary
